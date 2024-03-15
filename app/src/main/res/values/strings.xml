@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CrossTheRoad</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="start">Start</string>
+    <string name="select">Select</string>
+    <string name="name_input">Please Enter your name below"</string>
+    <string name="character_select">Select your character</string>
+    <string name="welcome">Welcome</string>
+    <string name="press_start">Press Start to Start the Game</string>
+    <string name="name">Name</string>
+    <string name="name_value">None</string>
+    <string name="score">Score</string>
+    <string name="score_value">000000</string>
+    <string name="lives">Lives</string>
+    <string name="lives_value">3</string>
+    <string name="select_difficulty">Please choose the difficulty</string>
+    <string name="easy">EASY</string>
+    <string name="normal">NORMAL</string>
+    <string name="todo">TODO</string>
+    <string name="difficulty">difficulty</string>
+</resources>
